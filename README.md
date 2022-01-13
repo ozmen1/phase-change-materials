@@ -1,3 +1,3 @@
 # pcmservercooling
 
-DESIGN AND SIMULATION OF THERMAL MANAGEMENT SYSTEM OF SERVERS USING PHASE CHANGE MATERIAL
+Design and Simulation of Thermal Management System of Servers Using Phase Change Material
